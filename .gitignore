@@ -71,3 +71,11 @@ crashlytics-build.properties
 [Aa]ssets/[Ss]treamingAssets/aa.meta
 [Aa]ssets/[Ss]treamingAssets/aa/*
 Docs/
+emscripten/
+LifeGame/Assets/Audio/
+LifeGame/Assets/Fonts/
+LifeGame/Assets/Graphics/
+LifeGame/Assets/TextMesh Pro/
+LifeGame/product/
+screenshot/
+LifeGame/product.zip
